@@ -16,7 +16,6 @@ This project is a command-line-based software designed for the management of a w
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Features
 
@@ -101,12 +100,6 @@ The software does not require any special configuration. All data is saved local
 
 ## Contributors
 
-- **Your Name** - Developer and Project Maintainer.
+[Francesco Gardini](https://github.com/gardi97)
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Let me know if you need further adjustments to the README!
